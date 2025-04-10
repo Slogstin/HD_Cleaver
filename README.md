@@ -19,7 +19,7 @@ Matt for [Hideous Destructor](https://codeberg.org/mc776/HideousDestructor).
     * Fire to swing it
     * Altfire to lunge and swing
     * hold Firemode and press Fire to throw it
-    * Decently effective at gibbing dead monsters
+    * Decently effective at gibbing dead monsters, for it's weight
     * Loadout code: CLV
     * Class: HDCleaver
 
