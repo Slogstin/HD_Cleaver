@@ -1,0 +1,12 @@
+$random Cleaver/swing {Cleaver/SW1 Cleaver/SW2 Cleaver/SW3}
+Cleaver/SW1 Sounds/Cleaver/CleaverSwing1.wav
+Cleaver/SW2 Sounds/Cleaver/CleaverSwing2.wav
+Cleaver/SW3 Sounds/Cleaver/CleaverSwing3.wav
+
+$random Cleaver/wall {Cleaver/WL1 Cleaver/WL2}
+Cleaver/WL1 Sounds/Cleaver/CleaverWall1.wav
+Cleaver/WL2 Sounds/Cleaver/CleaverWall2.wav
+
+$random Cleaver/flesh {Cleaver/Hit1 Cleaver/Hit2}
+Cleaver/Hit1 Sounds/Cleaver/CleaverFlesh1.wav
+Cleaver/Hit2 Sounds/Cleaver/CleaverFlesh2.wav

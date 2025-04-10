@@ -1,0 +1,13 @@
+class VirCleaverHandler : EventHandler
+{
+	override void CheckReplacement(ReplaceEvent e)
+	{
+		switch (e.Replacee.GetClassName()) {
+		
+		
+			case 'Chainsaw' :
+				if (!random(0, 4)) {e.Replacement = "HDCleaver";}	
+				break;
+			}
+	}
+}
