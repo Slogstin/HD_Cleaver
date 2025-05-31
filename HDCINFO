@@ -1,0 +1,2 @@
+// Weapon Spawn Pools
+addSpawnTableSingleEntry => { "tableName": "ChainsawReplaces", "name": "HDCleaver", "weight": "0.2", "persists": "true" }
