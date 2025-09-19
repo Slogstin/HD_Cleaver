@@ -1,5 +1,6 @@
 # Description
-This Addon adds a Cleaver to [Hideous Destructor](https://codeberg.org/mc776/HideousDestructor). 
+This Addon adds a Cleaver to [Hideous Destructor](https://codeberg.org/mc776/HideousDestructor).  
+_Requires [HDCoreLib](https://github.com/HDest-Community/hdest-core-lib), made by the community._
 
 ![Base Profile Screenshot 2025 04 10 - 16 06 24 79](https://github.com/user-attachments/assets/8a543750-47e9-4aba-b5d2-3a2265895e8e)
 
