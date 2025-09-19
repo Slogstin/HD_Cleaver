@@ -2,4 +2,4 @@
 addSpawnTableSingleEntry => { "tableName": "ChainsawReplaces", "name": "HDCleaver", "weight": "0.2", "persists": "true" }
 
 // Merchant Store Entries
-newMerchantStoreItem => { "type": "weapon", "category": "Slogstin", "item": "HDCleaver", "icon": "CLVRX0", "displayName": "Cleaver", "basePrice": "75", "flavorText": "Ah, fresh meat!" }
+newMerchantStoreItem => { "type": "weapon", "category": "Virid Inc.", "item": "HDCleaver", "icon": "CLVRX0", "displayName": "Cleaver", "basePrice": "75", "flavorText": "Ah, fresh meat!" }
