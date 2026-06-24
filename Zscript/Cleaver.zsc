@@ -146,7 +146,7 @@ class HDCleaver:HDCleaverWeapon{
 					-sin(dp)
 				)*3;
 			}
-			HDBackpack.ForceUpdate(dropper);
+//			HDBackpack.ForceUpdate(dropper);
 		}
 	}
 
